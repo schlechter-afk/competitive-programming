@@ -1,0 +1,1 @@
+{"name":"Local: sliding_median","url":"/home/swayam/algorithms/Sorting_Searching/cses/sliding_median.cpp","tests":[{"id":1684150242537,"input":"8 3\n2 4 3 5 8 1 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/Sorting_Searching/cses/sliding_median.cpp","group":"local","local":true}

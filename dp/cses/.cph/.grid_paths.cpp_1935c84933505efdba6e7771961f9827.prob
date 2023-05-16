@@ -1,0 +1,1 @@
+{"name":"Local: grid_paths","url":"/home/swayam/algorithms/dp/cses/grid_paths.cpp","tests":[{"id":1670614536654,"input":"10\n..........\n..........\n..........\n..........\n...","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/dp/cses/grid_paths.cpp","group":"local","local":true}

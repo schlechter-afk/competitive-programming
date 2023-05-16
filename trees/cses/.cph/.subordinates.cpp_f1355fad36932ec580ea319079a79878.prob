@@ -1,0 +1,1 @@
+{"name":"Local: subordinates","url":"/home/swayam/algorithms/trees/cses/subordinates.cpp","tests":[{"id":1678628378713,"input":"5\n1 1 2 3","output":""},{"id":1678629469442,"input":"10\n1 2 3 4 5 6 7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/trees/cses/subordinates.cpp","group":"local","local":true}

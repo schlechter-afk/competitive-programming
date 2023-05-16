@@ -1,0 +1,1 @@
+{"name":"Local: curr_code","url":"/home/swayam/algorithms/trees/cses/curr_code.cpp","tests":[{"id":1678728515194,"input":"5 3\n1 2\n1 3\n3 4\n3 5\n1 3\n2 5\n1 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/trees/cses/curr_code.cpp","group":"local","local":true}

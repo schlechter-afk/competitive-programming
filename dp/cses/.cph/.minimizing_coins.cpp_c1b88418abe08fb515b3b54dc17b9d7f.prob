@@ -1,0 +1,1 @@
+{"name":"Local: minimizing_coins","url":"/home/swayam/algorithms/dp/cses/minimizing_coins.cpp","tests":[{"id":1670609572939,"input":"3 18\n3 6 9","output":""},{"id":1670610054359,"input":"5 1000000\n1 2 3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/dp/cses/minimizing_coins.cpp","group":"local","local":true}

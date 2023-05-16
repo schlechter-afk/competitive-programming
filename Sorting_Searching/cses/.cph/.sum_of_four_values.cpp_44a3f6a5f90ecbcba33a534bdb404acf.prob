@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_four_values","url":"/home/swayam/algorithms/Sorting_Searching/cses/sum_of_four_values.cpp","tests":[{"id":1684234497342,"input":"8 15\n3 2 5 8 1 3 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/Sorting_Searching/cses/sum_of_four_values.cpp","group":"local","local":true}

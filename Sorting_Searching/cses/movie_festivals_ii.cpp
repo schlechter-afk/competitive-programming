@@ -25,6 +25,26 @@ void solve()
         cin >> times[i].second >> times[i].first;
     }
     sort(times.begin(), times.end());
+    multiset<ll> ms; // storing end times of movies.
+    ll movies = 0;
+    for (int i = 0; i < k; i++)
+        ms.insert(0);
+    for (int i = 0; i < n; i++)
+    {
+        auto itr = ms.upper_bound(times[i].second);
+        // cout << times[i].second << " " << times[i].first << " " << *itr << " \n";
+        if (itr == ms.begin())
+        {
+            // cout << times[i].second << " " << times[i].first << " " << *itr << " \n";
+            continue;
+        }
+        itr--;
+        ms.erase(itr);
+        // cout << *itr << "\n";
+        ms.insert(times[i].first);
+        movies++;
+    }
+    cout << movies;
 }
 
 int main()

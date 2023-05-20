@@ -1,0 +1,1 @@
+{"name":"Local: lcs","url":"/home/swayam/algorithms/folder_commit/dp/atcoder/lcs.cpp","tests":[{"id":1684479677270,"input":"axyb\nabyxb","output":""},{"id":1684480308461,"input":"aa\nxayaz","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/folder_commit/dp/atcoder/lcs.cpp","group":"local","local":true}

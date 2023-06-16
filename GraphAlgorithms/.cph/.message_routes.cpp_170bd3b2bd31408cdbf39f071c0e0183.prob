@@ -1,0 +1,1 @@
+{"name":"Local: message_routes","url":"/home/swayam/algorithms/folder_commit/GraphAlgorithms/message_routes.cpp","tests":[{"id":1686906862953,"input":"5 5\n1 2\n1 3\n1 4\n2 3\n5 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/folder_commit/GraphAlgorithms/message_routes.cpp","group":"local","local":true}

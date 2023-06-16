@@ -1,0 +1,1 @@
+{"name":"Local: quiz_master","url":"/home/swayam/algorithms/folder_commit/Maths/NumberTheory/quiz_master.cpp","tests":[{"id":1686948720421,"input":"3\n2 4\n3 7\n4 2\n3 7 2 9\n5 7\n6 4 3 5 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/folder_commit/Maths/NumberTheory/quiz_master.cpp","group":"local","local":true}

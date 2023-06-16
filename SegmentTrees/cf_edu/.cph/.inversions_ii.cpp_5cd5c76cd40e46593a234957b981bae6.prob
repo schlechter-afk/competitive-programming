@@ -1,0 +1,1 @@
+{"name":"Local: inversions_ii","url":"/home/swayam/algorithms/folder_commit/SegmentTrees/cf_edu/inversions_ii.cpp","tests":[{"id":1686635662219,"input":"5\n0 1 1 0 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/folder_commit/SegmentTrees/cf_edu/inversions_ii.cpp","group":"local","local":true}

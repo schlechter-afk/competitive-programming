@@ -1,0 +1,1 @@
+{"name":"Local: sereja_and_brackets","url":"/home/swayam/algorithms/folder_commit/sereja_and_brackets.cpp","tests":[{"id":1686580234170,"input":"())(())(())(\n7\n1 1\n2 3\n1 2\n1 12\n8 12\n5 11\n2 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/folder_commit/sereja_and_brackets.cpp","group":"local","local":true}

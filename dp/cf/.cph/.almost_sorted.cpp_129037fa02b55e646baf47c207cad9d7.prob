@@ -1,0 +1,1 @@
+{"name":"Local: almost_sorted","url":"/home/swayam/algorithms/folder_commit/dp/cf/almost_sorted.cpp","tests":[{"id":1685822822425,"input":"5\n1 1\n1 2\n3 3\n6 5\n3 4","output":"1 \n-1\n2 1 3 \n1 2 4 3 5 6 \n3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/swayam/algorithms/folder_commit/dp/cf/almost_sorted.cpp","group":"local","local":true}
